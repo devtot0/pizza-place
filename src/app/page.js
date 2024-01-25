@@ -16,8 +16,8 @@ export default function Home() {
             ordinary. Our skilled chefs artfully combine premium ingredients to
             create a symphony of flavors, from classic Margheritas to inventive
             specialties that push the boundaries of pizza perfection. Whether
-            you're a traditionalist or an adventurous foodie, our diverse menu
-            caters to all tastes and cravings.
+            you&apos;re a traditionalist or an adventurous foodie, our diverse
+            menu caters to all tastes and cravings.
           </p>
         </div>
       </section>
